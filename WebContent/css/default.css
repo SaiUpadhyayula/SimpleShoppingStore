@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+#body{
+	font: Arial, Helvetica, sans-serif;
+	width: 850px;
+	text-align: center;
+	margin: 20px auto;	
+}
+
+#main {  background: #eee }
+
+#header {
+	
+	height: 250px;
+	background: #aaa;	
+	
+}
+
+#footer { 
+
+	height: 60px;
+	clear: left;
+	background: #aaa;
+}
+
+#body { 
+
+	height: 400px;
+	width: 850px;
+	float: left;
+	background: #ccc;
+}
