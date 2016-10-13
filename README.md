@@ -11,3 +11,7 @@ Another implementation using JSP and Servlets:
 
 https://github.com/SaiUpadhyayula/OnlineKart
 
+A similar shopping cart using Spring Framework
+
+https://github.com/SaiUpadhyayula/SpringShoppingStore
+
